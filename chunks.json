@@ -1,11 +1,11 @@
 {
   "client": {
     "css": [
-      "/static/css/bundle.90fedf4d.css"
+      "/static/css/bundle.2c4ba5a0.css"
     ],
     "js": [
-      "/static/js/bundle.3b5459fc.js",
-      "/static/js/bundle.3b5459fc.js.map"
+      "/static/js/bundle.6aa632c7.js",
+      "/static/js/bundle.6aa632c7.js.map"
     ]
   }
 }

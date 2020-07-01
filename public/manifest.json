@@ -1,0 +1,11 @@
+{
+  "name": "Vibemap",
+  "short_name": "Vibemap",
+  "orientation": "portrait",
+  "display": "fullscreen",
+  "start_url": ".",
+  "description": "Find your vibe",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "related_applications": []
+}
